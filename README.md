@@ -10,4 +10,4 @@ Arduino system controls a solenoid valve via a Android companion application.
 
 ### Diagram
 
-(https://github.com/tstokvis/Automatic_Gardening/blob/master/GardeningSystem.png)
+[Water System Layout](https://github.com/tstokvis/Automatic_Gardening/blob/master/GardeningSystem.png)
