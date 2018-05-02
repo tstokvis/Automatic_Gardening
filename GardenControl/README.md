@@ -1,1 +1,5 @@
-"# Automatic_Gardening"  git init git add README.md git commit -m "first commit" git remote add origin git@github.com:tstokvis/Automatic_Gardening.git git push -u origin master
+# Automatic Gardening Android Companion Application
+
+Simple single activity Android Application: Button turns the valve on/off. Timer at bottom shows how long the system has been on for (allows you to see when the battery may have died)
+
+![Android Application](https://github.com/tstokvis/Automatic_Gardening/blob/master/GardenControl/AndroidApplication.png)
