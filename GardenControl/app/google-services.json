@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "49213335025",
+    "firebase_url": "https://garden-ade8e.firebaseio.com",
+    "project_id": "garden-ade8e",
+    "storage_bucket": "garden-ade8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49213335025:android:025186bd03b280e7",
+        "android_client_info": {
+          "package_name": "tstok.garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49213335025-hc4lld5aom54nfq1a9js7cq72ue9pt83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tstok.garden",
+            "certificate_hash": "f929e00a7fa2c690b87159138399b894ed482f78"
+          }
+        },
+        {
+          "client_id": "49213335025-8k8jh6diuoogqnobplcio57vpufo52dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEXDt439avVtba096PhOGVJ_n2lyjqHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49213335025-le6ur4q81oafbmngvsupi0f4magfshgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Stokvis.Garden"
+              }
+            },
+            {
+              "client_id": "49213335025-8k8jh6diuoogqnobplcio57vpufo52dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49213335025:android:81b46f58def5b747",
+        "android_client_info": {
+          "package_name": "tstok.gardencontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49213335025-ddrbut5stvo65u9jqo40s0mc92ghe583.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tstok.gardencontrol",
+            "certificate_hash": "2a85ea408fc83704a98a37a84ce15bcc8add7811"
+          }
+        },
+        {
+          "client_id": "49213335025-8k8jh6diuoogqnobplcio57vpufo52dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEXDt439avVtba096PhOGVJ_n2lyjqHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49213335025-le6ur4q81oafbmngvsupi0f4magfshgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Stokvis.Garden"
+              }
+            },
+            {
+              "client_id": "49213335025-8k8jh6diuoogqnobplcio57vpufo52dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
