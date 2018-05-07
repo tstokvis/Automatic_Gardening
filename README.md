@@ -14,7 +14,7 @@ Arduino system controls a solenoid valve via a Android companion application.
 
 1. [Arduino Code](https://github.com/tstokvis/Automatic_Gardening/blob/master/Arduino%20Code/WaterSys/WaterSys.ino): this can be uploaded via the [Arduino IDE](https://www.arduino.cc/en/Main/Software). For information on how to connect to WiFi using the LinkNode D1 module, visit [linksprite.com](http://www.linksprite.com/wiki/index.php5?title=LinkNode_D1) for help. You'll also need to setup your own Gooogle Firebase and connect it with the [Arduino core for ESP8266 WiFi chip library](https://github.com/esp8266/Arduino) 
 
-2. [Android Companion App](): from Android Studio, connect to your Firebase application that you created by going to  
+2. [Android Companion App](https://github.com/tstokvis/Automatic_Gardening/tree/master/GardenControl): from Android Studio, connect to your Firebase application that you created by going to  
 Tools->Firebase.
 
 
